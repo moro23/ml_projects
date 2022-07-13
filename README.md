@@ -5,5 +5,6 @@ This repository contains five (5) machine learning projects that I have recently
 - Project_3: Consist of building a Classification model using Bagging Classifier, Decision Tree, and Gradient Boosting algorithms to 
   - Facilitate the process of visa approvals 
   - Recommend a suitable profile for the applicants for whom the visa should be certified or denied. <br> 
+  
 This project also include performing Exploratory Data Analysis (EDA), Feature Importance and Feature Engineering. Lastly, the I performed Hyperparmater tuning to improve the of the models. 
 project_name: Visa_Prediction_Analysis. 
