@@ -6,4 +6,4 @@ This repository contains five (5) machine learning projects that I have recently
   - Facilitate the process of visa approvals 
   - Recommend a suitable profile for the applicants for whom the visa should be certified or denied. 
  This project also include performing Exploratory Data Analysis (EDA), Feature Importance and Feature Engineering. Lastly, the I performed Hyperparmater tuning to improve the of the models <br>
- project_name: Visa_Prediction_Analysis. 
+project_name: Visa_Prediction_Analysis. 
